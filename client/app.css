@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.switch-field {
+  overflow: hidden;
+  color: white;
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+body {
+  background-image: url("https://img.freepik.com/free-photo/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers_181624-18618.jpg?w=996&t=st=1719991271~exp=1719991871~hmac=d2649316ccfed28f1a5b761dfa3307bf2e2d686e3fd83d807b3763a1ec466faf");
+  backdrop-filter: blur(8px);
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+input {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  height: 30px;
+  border-radius: 20px;
+  padding-left: 12px;
+}
+.location-toggle {
+  margin-bottom: 25px;
+}
+
+h2 {
+  color: white;
+}
+button,
+select {
+  border-radius: 20px;
+}
+.result{
+  background: #dcd686;
+  width: 76%;
+  border: 0;
+  margin: 25px 0 10px;
+  box-sizing: border-box;
+  font-size: 15px;
+  height: 35px;
+  text-align: center;
+}
