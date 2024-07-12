@@ -41,5 +41,7 @@ The project primarily uses:
 
 # Results 
  Following is the UI 
- ![Screenshot 2024-07-12 115356](https://github.com/user-attachments/assets/36fefbee-1c4d-4ba9-b15c-c4453d560863)
+ 
+ ![Screenshot 2024-07-12 115649](https://github.com/user-attachments/assets/2d4d27c9-9768-4e08-87f1-3bab0e8fe3e7)
+
 
