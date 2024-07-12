@@ -61,7 +61,7 @@ The project primarily uses:
 
 **Estimated Price**
 
-![2024-07-12 at 12 08 15_b0620953](https://github.com/user-attachments/assets/3ecfb875-3f29-4172-9bc1-b412b168f63c)
+![2024-07-12 at 12 08 15_b0620953](https://github.com/user-attachments/assets/f8930a9b-53c0-4baf-879b-22c9e0be2fa5)
 
 
 
