@@ -40,8 +40,12 @@ The project primarily uses:
 2. Open **client/index.html** in your browser to use the web interface.
 
 # Results 
- Following is the UI 
+ **Following is the UI** 
  
  ![Screenshot 2024-07-12 115649](https://github.com/user-attachments/assets/2d4d27c9-9768-4e08-87f1-3bab0e8fe3e7)
+
+ **Selecting BHK preference**
+
+ 
 
 
