@@ -42,10 +42,27 @@ The project primarily uses:
 # Results 
  **Following is the UI** 
  
- ![Screenshot 2024-07-12 115649](https://github.com/user-attachments/assets/2d4d27c9-9768-4e08-87f1-3bab0e8fe3e7)
+ ![Screenshot 2024-07-12 115356](https://github.com/user-attachments/assets/6765811c-9aa6-4cf1-af7b-c9af41804a16)
+
 
  **Selecting BHK preference**
 
- 
+ ![Screenshot 2024-07-12 115223](https://github.com/user-attachments/assets/a422cd0c-1af6-4b2d-845f-5eec83727efa)
+
+
+ **Selecting Location from Dropdown**
+
+ ![Screenshot 2024-07-12 115649](https://github.com/user-attachments/assets/c9bc91e9-4ad4-4c4d-8f3c-cc55c547e31c)
+
+
+**Inputing EMI preferences**
+
+![Screenshot 2024-07-12 115259](https://github.com/user-attachments/assets/8bc194c4-6741-4c19-81fc-9d65f87a0ddd)
+
+**Estimated Price**
+
+![2024-07-12 at 12 08 15_b0620953](https://github.com/user-attachments/assets/3ecfb875-3f29-4172-9bc1-b412b168f63c)
+
+
 
 
