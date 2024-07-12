@@ -24,7 +24,7 @@ def predict_homeprc():
     'estimated_price': util.get_price_estimate(Region,Total_Sqft,BHK,EMI_Starts)
   })
 
-  response.headers.add('Access-Control-Allow-Origin',*)
+  response.headers.add('Access-Control-Allow-Origin','*')
   Access-Control-Allow-Methods: GET, POST, PUT, DELETE
   Access-Control-Allow-Headers: Content-Type, Authorization
   Access-Control-Allow-Credentials: true
